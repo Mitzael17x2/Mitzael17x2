@@ -49,10 +49,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  </div>
 
 <div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitzael17x2&layout=compact">
+  </div>
+
+<div>
 <img src="https://activity-graph.herokuapp.com/graph?username=Mitzael17x2&theme=dark">
 </div>
 
-<div>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mitzael17x2&theme=solarized_dark"
-      </div>
 

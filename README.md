@@ -49,7 +49,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitzael17x2&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitzael17x2">
   </div>
 
 <div>

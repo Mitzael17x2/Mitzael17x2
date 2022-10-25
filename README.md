@@ -48,6 +48,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  <img src="https://github-readme-stats.vercel.app/api?username=Mitzael17x2"> 
  </div>
 
-
+<div>
+<img src="https://activity-graph.herokuapp.com/graph?username=Mitzael17x2">
+</div>
 
 

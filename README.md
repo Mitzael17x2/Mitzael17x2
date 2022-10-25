@@ -49,7 +49,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
  </div>
 
 <div>
-<img src="https://activity-graph.herokuapp.com/graph?username=Mitzael17x2">
+<img src="https://activity-graph.herokuapp.com/graph?username=Mitzael17x2&theme=dark">
 </div>
 
 

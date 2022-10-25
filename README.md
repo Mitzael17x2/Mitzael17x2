@@ -52,4 +52,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://activity-graph.herokuapp.com/graph?username=Mitzael17x2&theme=dark">
 </div>
 
+<div>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mitzael17x2&theme=solarized_dark"
+      </div>
 
